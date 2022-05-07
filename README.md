@@ -1,1 +1,1 @@
-# aisolutions.github.io
+# AI Solutions
